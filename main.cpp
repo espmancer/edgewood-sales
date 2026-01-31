@@ -1,6 +1,11 @@
 #include <iostream>
-#include "Sales.h"
+
+/*
+    - File Reader/Writer Class
+    - UI Class    
+    - Item Handler Class
+*/
 
 int main(){
-    std::cout << "Program ran successfully!\n";
+    std::cout << "Foo!";
 }
