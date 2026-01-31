@@ -1,4 +1,5 @@
 #include <iostream>
+#include "UI.hpp"
 
 /*
     - File Reader/Writer Class
@@ -7,5 +8,7 @@
 */
 
 int main(){
-    std::cout << "Foo!";
+    UI uiObject;
+    
+    uiObject.printScreen();
 }
